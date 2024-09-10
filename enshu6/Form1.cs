@@ -10,6 +10,8 @@ namespace enshu6
 		private void button1_Click(object sender, EventArgs e)
 		{
 			MessageBox.Show("Hello, world");
+
+			MessageBox.Show("フォークリポジトリ");
 		}
 	}
 }
